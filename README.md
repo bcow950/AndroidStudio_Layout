@@ -154,10 +154,10 @@
 ### 截图：
 
 ##### ①总界面：
-![image](https://i.loli.net/2019/03/16/5c8cefdf8319a.png)
+![image](https://i.loli.net/2019/03/16/5c8cf614dfc87.png)
 ##### ②线性布局：
-![image](https://i.loli.net/2019/03/16/5c8cefdf8598e.png)
+![image](https://i.loli.net/2019/03/16/5c8cf614e1479.png)
 ##### ③约束布局：
-![image](https://i.loli.net/2019/03/16/5c8cefdf93d54.png)
+![image](https://i.loli.net/2019/03/16/5c8cf614dd5f6.png)
 ##### ④表格布局：
-![image](https://i.loli.net/2019/03/16/5c8cefdf90ff1.png)
+![image](https://i.loli.net/2019/03/16/5c8cf614e2ee0.png)
