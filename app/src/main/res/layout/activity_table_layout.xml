@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TableLayoutActivity"
+    android:background="@color/colorBlack"
+    android:stretchColumns="0"
+    >
+    <TableRow>
+        <TextView
+            android:paddingLeft="20dp"
+            android:text="@string/open"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"/>
+        <TextView
+            android:text="Ctrl-O"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="2"
+            android:gravity="right"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:paddingLeft="20dp"
+            android:text="@string/save"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"/>
+        <TextView
+            android:text="Ctrl-S"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="2"
+            android:gravity="right"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:paddingLeft="20dp"
+            android:text="@string/save1"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"/>
+        <TextView
+            android:text="Ctrl-Shift-S"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="2"
+            android:gravity="right"/>
+    </TableRow>
+    <TableRow>
+        <View android:layout_height="3dp"
+            android:background="@color/colorGrey"/>
+        <View android:layout_height="3dp"
+            android:background="@color/colorGrey"
+            android:layout_column="2"/>
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="@string/Import"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"/>
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="@string/Export"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"
+            />
+        <TextView
+            android:text="Ctrl-E"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="2"
+            android:gravity="right"/>
+    </TableRow>
+
+    <TableRow>
+        <View android:layout_height="3dp"
+            android:background="@color/colorGrey"/>
+        <View android:layout_height="3dp"
+            android:background="@color/colorGrey"
+            android:layout_column="2"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:paddingLeft="20dp"
+            android:text="@string/quit"
+            android:textSize="25sp"
+            android:textColor="@color/colorGrey"
+            android:layout_column="0"/>
+
+    </TableRow>
+</TableLayout>

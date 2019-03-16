@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Layout</string>
+    <string name="open">Open</string>
+    <string name="save">Save...</string>
+    <string name="save1">Save As...</string>
+    <string name="Import">X Import...</string>
+    <string name="Export">X Export ...</string>
+    <string name="quit">Quit</string>
+</resources>
